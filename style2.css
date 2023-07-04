@@ -1,0 +1,34 @@
+html {
+  scroll-behavior: smooth;
+}
+.nav ul li a {
+  color: black;
+}
+img {
+  border-radius: 20px;
+}
+#about-arch {
+  height: 100vh;
+}
+.Cblue {
+  color: rgba(0, 0, 255, 0.521);
+}
+.icon {
+  width: 100px;
+  height: 100px;
+  color: white;
+  font: 100px;
+
+  background-color: rgba(0, 0, 255, 0.521);
+  border-radius: 50%;
+}
+.hidden {
+  display: none;
+}
+.anime {
+  transition: 1s ease-in-out;
+}
+#about-arch {
+  background-color: rgb(209, 158, 63);
+  background-repeat: no-repeat;
+}
